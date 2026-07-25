@@ -6,7 +6,7 @@ you will see various `.py` files all of them solves same problem but different a
 
 
 ## Understanding RAG Pipeline (Fundamantally):
-![RAG Pipeline Flow](assets/rag_pipeline_flow.png)
+![RAG Pipeline Flow](rag_pipeline_flow.png)
 
 
 
